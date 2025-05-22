@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pydantic
+sentence-transformers
+qdrant-client
+fastembed
+python-multipart
+pypdf
+requests
